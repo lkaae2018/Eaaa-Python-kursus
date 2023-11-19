@@ -1,0 +1,16 @@
+type: edu
+files:
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: true
+- name: tests/__init__.py
+  visible: false
+- name: Livets_gang_begrænset.py
+  visible: true
+- name: livetsgang.png
+  visible: true
+- name: Livets_gang_evighed.py
+  visible: true
+- name: solution.py
+  visible: true

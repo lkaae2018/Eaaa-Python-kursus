@@ -1,0 +1,28 @@
+type: edu
+files:
+  - name: File_write.py
+    visible: true
+  - name: tests/test_task.py
+    visible: false
+  - name: __init__.py
+    visible: true
+  - name: tests/__init__.py
+    visible: false
+  - name: lkfile.txt
+    visible: true
+  - name: file1.py
+    visible: true
+  - name: foo.txt
+    visible: true
+  - name: Closefile.py
+    visible: true
+  - name: writefile.py
+    visible: true
+  - name: openfile.py
+    visible: true
+  - name: rename file.py
+    visible: true
+  - name: test2.txt
+    visible: true
+  - name: Removefile.py
+    visible: true
