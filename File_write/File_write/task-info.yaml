@@ -12,8 +12,6 @@ files:
     visible: true
   - name: file1.py
     visible: true
-  - name: foo.txt
-    visible: true
   - name: Closefile.py
     visible: true
   - name: writefile.py
@@ -25,4 +23,8 @@ files:
   - name: test2.txt
     visible: true
   - name: Removefile.py
+    visible: true
+  - name: Exceptions.py
+    visible: true
+  - name: foo.txt
     visible: true
