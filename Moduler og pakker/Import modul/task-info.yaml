@@ -1,14 +1,10 @@
-type: edu
+type: theory
 files:
-- name: mit_modul.py
-  visible: true
-- name: tests/test_task.py
-  visible: false
-- name: __init__.py
-  visible: true
-- name: tests/__init__.py
-  visible: false
-- name: config.py
-  visible: true
-- name: emailsent.py
-  visible: true
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+  - name: Mit_modul.py
+    visible: true
+  - name: Nyt_modul.py
+    visible: true

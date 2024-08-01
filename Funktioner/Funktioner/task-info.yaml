@@ -1,10 +1,14 @@
-type: edu
+type: theory
 files:
-- name: Funktioner.py
-  visible: true
-- name: tests/test_task.py
-  visible: false
-- name: __init__.py
-  visible: true
-- name: tests/__init__.py
-  visible: false
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+  - name: Funktion_opg1.py
+    visible: true
+  - name: Funktion_opg2.py
+    visible: true
+  - name: Funktion_opg3.py
+    visible: true
+  - name: Funktion_opg3_svar.py
+    visible: true

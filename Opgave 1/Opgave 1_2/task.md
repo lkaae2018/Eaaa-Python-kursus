@@ -1,1 +1,0 @@
-Indtast en temperatur i celcius og få den omregnet til Fahrenheit. 

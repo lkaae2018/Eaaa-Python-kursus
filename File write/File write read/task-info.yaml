@@ -1,0 +1,28 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+  - name: lkfile.txt
+    visible: true
+  - name: Open file fejl.py
+    visible: true
+  - name: Closefile.py
+    visible: true
+  - name: writefile.py
+    visible: true
+  - name: openfile.py
+    visible: true
+  - name: rename file.py
+    visible: true
+  - name: test2.txt
+    visible: true
+  - name: Removefile.py
+    visible: true
+  - name: Exceptions.py
+    visible: true
+  - name: foo.txt
+    visible: true
+  - name: for_read_file.py
+    visible: true

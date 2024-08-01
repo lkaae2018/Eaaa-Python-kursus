@@ -1,12 +1,13 @@
 import math
+
 # https://docs.python.org/3/library/math.html?highlight=math#module-math
-x=math.pi
+x = math.pi
 print(x)
-x=math.trunc(10.53)
+x = math.trunc(10.53)
 print(x)
-x=math.sin(45)
+x = math.sin(45)
 print(x)
-x=math.pow(2,2)
+x = math.pow(2, 2)
 print(x)
-x=math.sqrt(9)
+x = math.sqrt(9)
 print(x)

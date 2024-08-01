@@ -1,0 +1,10 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+  - name: __init__.py
+    visible: false
+  - name: Type_konvertering.py
+    visible: true
+  - name: Test konverting af.py
+    visible: true

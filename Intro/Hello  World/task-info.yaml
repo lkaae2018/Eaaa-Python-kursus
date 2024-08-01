@@ -1,0 +1,6 @@
+type: theory
+files:
+  - name: Hello World.py
+    visible: true
+  - name: __init__.py
+    visible: false
